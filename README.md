@@ -11,7 +11,7 @@ Please do not edit the files as these are official Squad files.
   * Geng Xinyu (a.k.a. Acea)
   * Toni Jordan
   * Roberto Lisa Alonso
-  * Pablo Losada (a.k.a maeloka26)
+  * Pablo Losada (a.k.a. maeloka26)
   * John Stein (a.k.a. Enceos)
   * Helmut
   * Martin Hoxter
@@ -27,7 +27,7 @@ Please do not edit the files as these are official Squad files.
   * TheKosmonaut
 
 ## Licensing
-Copyright © 2011-2017, Squad. All rights reserved.
+Copyright © 2011-2018, Squad. All rights reserved.
 
 Written by Squad for use in Kerbal Space Program.  
 This project may not be used in any derivative work without permission.
