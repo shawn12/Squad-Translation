@@ -27,7 +27,7 @@ Please do not edit the files as these are official Squad files.
   * TheKosmonaut
 
 ## Licensing
-Copyright © 2011-2019, Squad. All rights reserved.
+Copyright © 2011-2020, Squad. All rights reserved.
 
 Written by Squad for use in Kerbal Space Program.  
 This project may not be used in any derivative work without permission.
